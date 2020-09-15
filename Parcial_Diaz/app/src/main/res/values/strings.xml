@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Parcial_Diaz</string>
+    <string name="DigiteDatos">Digite los Datos</string>
+    <string name="empleado">Empleado</string>
+    <string name="salario">Salario</string>
+    <string name="HorasExtras">Horas Extras</string>
+    <string name="Vlr_Hrs_Extras">Vlr Hr Extras</string>
+    <string name="pension">Pension 4%</string>
+    <string name="salud">Salud 4%</string>
+    <string name="SalarioTotal">Salario Total</string>
+    <string name="calcular">Calcular</string>
+</resources>
